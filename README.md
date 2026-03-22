@@ -38,18 +38,6 @@ A static Amazon homepage clone built using HTML and CSS. This project focuses on
 
 ---
 
-## 📸 Screenshots
-
-(Add screenshots of your project here)
-
----
-
-## 🔗 Live Demo
-
-(Add your deployed link here - GitHub Pages / Netlify)
-
----
-
 ## ⚠️ Disclaimer
 
 This project is a frontend clone of Amazon created only for educational purposes. It does not include any backend functionality and is not affiliated with Amazon.
